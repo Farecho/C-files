@@ -18,7 +18,7 @@ int main() {
         printf("The answer is: %lf\n", result);
     } else if(operator == '-') {
         result = a - b;  
-        printf("The asssnswer is: %lf\n", result);
+        printf("The answer is: %lf\n", result);
     }
 
     return 0; 
